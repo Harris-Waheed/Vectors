@@ -50,6 +50,3 @@ FastAPI automatically generates interactive API documentation. Once the server i
 * `models/`: Database models and schemas.
 * `routes/`: API endpoint definitions.
 * `database.py`: Database connection and configuration.
-
-## License
-This project is proprietary and confidential.
