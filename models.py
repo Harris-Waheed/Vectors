@@ -36,3 +36,14 @@ class CustomerOut(BaseModel):
     name: str
     phone: str
     ship_address: str
+
+
+class  UserIn(BaseModel):
+
+    user_name: str
+    password: str
+
+
+class UserOut(BaseModel):
+
+    user_name: str
