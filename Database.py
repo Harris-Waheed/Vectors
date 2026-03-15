@@ -4,8 +4,8 @@ import os
 
 load_dotenv()
 
-user = os.environ.get('user')
-pas = os.environ.get('password')
+user = os.environ.get('USER')
+pas = os.environ.get('PASSWORD')
 dns = 'localhost/XEPDB1'
 
 
